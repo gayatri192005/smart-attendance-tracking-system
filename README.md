@@ -1,5 +1,4 @@
-
-Smart Event Attendance Tracking System Using QR Code
+The Smart Event Attendance Tracking System Using QR Code
 
 A smart attendance tracking system designed for events that utilizes QR codes for secure, fast, and efficient attendance verification. This system simplifies the process of event management by automatically logging participant attendance using a QR scanner.
 
